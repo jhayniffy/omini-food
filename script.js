@@ -2,6 +2,6 @@ const button = {
   firstname: "jerry",
   lastname: "jay",
   age: ["19"],
-  middlename: "peter niffy:",
+  middlename: "peter",
 };
 console.log("button");
