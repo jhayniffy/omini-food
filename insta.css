@@ -1,0 +1,35 @@
+* {
+  background-color: rgb(24, 22, 22);
+  padding: 10px;
+  margin: 0px;
+}
+.container {
+  justify-content: center;
+  display: contents;
+  font-style: normal;
+  float: right;
+  color: rgb(240, 241, 243);
+  display: inline;
+  margin-right: 100px;
+}
+.log button {
+  height: 40px;
+  width: 100px;
+  background-color: blue;
+}
+.first {
+  /* background-color: aliceblue; */
+}
+img {
+  justify-content: center;
+  /* display: flexbox; */
+  margin-top: 70px;
+  /* margin-right: 70px; */
+}
+.inco {
+  margin-top: 20px;
+}
+button {
+  color: rgb(41, 42, 43);
+  background-color: rgb(179, 182, 184);
+}
